@@ -1,5 +1,5 @@
 /*! \file matrix.h
- *  Contains declaration of the clas Matrix and corresponding types.
+ *  Contains declaration of the class Matrix and corresponding types.
  */
 
 #ifndef MATRIX_H

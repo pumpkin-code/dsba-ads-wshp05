@@ -18,3 +18,8 @@ add_executable(ex1_matrix
         ex1_matrix/matrix.cpp
         ex1_matrix/matrix.h
     )
+
+add_executable(ex2_matrix_template
+    ex2_matrix_template/main.cpp
+    ex2_matrix_template/matrix.h
+)
